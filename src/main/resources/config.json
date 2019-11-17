@@ -1,0 +1,8 @@
+{
+  "AppType" : "PRIVATE",
+  "UserAgent": "JavaDemoApp-CDPB2R",
+  "ConsumerKey" : "NXLEJNP1NQR8B7IUHPK6WCX87B9H0G",
+  "ConsumerSecret" : "OL6CCKH95VBBRLJMOOSNEHL9JLNGKP",
+  "PrivateKeyCert" :  "src/main/resources/certs/public_privatekey.pfx",
+  "PrivateKeyPassword" :  "5966752"
+}
